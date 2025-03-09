@@ -1,1 +1,3 @@
-DWL - v0.7
+===> DWL <=== 
+- version 0.7
+- from aur
